@@ -16,6 +16,7 @@
   "formation": {
     "web": {
       "quantity": 1
+        "size" : "eco"
     }
   },
   "stack": "container",
